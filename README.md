@@ -1,2 +1,2 @@
 # sudoku
-Android application for a Sudoku solver
+A sandbox for getting used to GitHub.
